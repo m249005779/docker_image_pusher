@@ -1,1 +1,2 @@
 bitnami/php-fpm:8.1.29
+php:8.2-fpm
