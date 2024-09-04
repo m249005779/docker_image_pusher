@@ -6,3 +6,5 @@ nginx:1.26.2
 redis:7.4.0
 --platform=linux/arm64/v8 php:8.1-fpm
 --platform=linux/arm64/v8 nginx:1.26.2
+--platform=linux/arm64/v8 mysql:5.7.44
+--platform=linux/arm64/v8 redis:7.4.0
